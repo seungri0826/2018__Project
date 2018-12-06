@@ -1,5 +1,5 @@
 ## Client
-#### > Client의 종류
+### > Client의 종류
 * Fat Client
   - 다량의 데이터 처리
   - 서버에 꼭 의지하지는 X, 중앙 서버와 독립
@@ -13,7 +13,7 @@
   - 최소한의 클라이언트
   - 다른 서버에 크게 의존
   - 소유권의 총 비용 낮추면서 계산 서비스를 쉽게 관리할 수 있음
-  - 프로그래밍 환경:
+  - 프로그래밍 환경
     + JavaScript
     + Ruby on Rails
     + Django
@@ -35,7 +35,8 @@
 | **Hybrid Client** |     X     |     O     |
 
 
-#### > 모바일 OS의 종류
+
+### > 모바일 OS의 종류
 * Android (Google)
 
 * iOS (Apple)
